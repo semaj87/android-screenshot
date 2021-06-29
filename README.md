@@ -16,7 +16,7 @@ Once permission has been granted, the button's on click listener can be invoked 
 
 ## Built With
 
-* [Kotlin: 1.5.10](https://kotlinlang.org/)
+* [Java: 16.0.1](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html)
 * [Android Studio: 4.2](https://developer.android.com/studio)
 * [Android Lollipop: (5.0)](https://www.android.com/intl/en_uk/versions/lollipop-5-0/)
 * [Android 5.0: (API level 21)](https://developer.android.com/about/versions/lollipop)
@@ -24,7 +24,7 @@ Once permission has been granted, the button's on click listener can be invoked 
 
 ## Prerequisites
 
-* [Kotlin: 1.5.10](https://kotlinlang.org/)
+* [Java: 16.0.1](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html)
 * [Android Studio: 4.2](https://developer.android.com/studio)
 * [Android Lollipop: (5.0)](https://www.android.com/intl/en_uk/versions/lollipop-5-0/)
 * [Android 5.0: (API level 21)](https://developer.android.com/about/versions/lollipop)
